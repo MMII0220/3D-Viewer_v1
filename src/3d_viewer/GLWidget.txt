@@ -1,0 +1,7 @@
+#include "GLWidget"
+
+GLWidget::GLWidget(QWidget *parent)
+    : QWidget{parent}
+{
+
+}

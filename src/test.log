@@ -1,0 +1,13 @@
+Running suite 3dViewer
+test.c:11:P:Core:incorrect_input:0: Passed
+test.c:18:P:Core:correct_input:0: Passed
+test.c:25:P:Core:read_color_file:0: Passed
+test.c:147:P:Core:rescale_rescale_test:0: Passed
+test.c:78:P:Core:move_test:0: Passed
+test.c:113:P:Core:move_test2:0: Passed
+test.c:182:P:Core:rotate_test:0: Passed
+test.c:217:P:Core:rotate_test2:0: Passed
+test.c:32:P:Core:axis_maxdist_test:0: Passed
+test.c:44:P:Core:writing_to_file_test:0: Passed
+Results for all suites run:
+100%: Checks: 10, Failures: 0, Errors: 0
